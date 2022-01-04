@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aherrerofdez
 - 👀 I’m interested in app-dev and web design
-- 🌱 I’m currently learning different frameworks such as Svelte and MaterialUI
+- 👓 I'm familiar with several programming languages such as Python, Javascript, Java, HTML and CSS
+- 🌱 I’m currently learning different frameworks and languages for app-dev (i.e. Svelte, ReactJS, Android Studio)
 - 💞️ I’m looking to collaborate on zalolearn
 - 📫 How to reach me: anaherrerofernandez@gmail.com
