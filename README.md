@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana Herrero
 - 👀 I’m interested in app-dev and web design
 - 👓 I'm familiar with several programming languages such as Python, Javascript, Java, HTML and CSS
-- 🌱 I’m currently learning different frameworks and languages for app-dev (i.e. Svelte, ReactJS, Android Studio)
+- 🌱 I’m currently focused on practicing my coding skills in Python and getting familiar with Front-End frameworks
 - 💞️ I’m looking to develop zalolearn
 - 📫 How to reach me: anaherrerofernandez@gmail.com
